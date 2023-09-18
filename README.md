@@ -24,7 +24,7 @@ This repository contains programs in the Java programming language.<br><br>
 <h2>Java Developement Kit</h2>
 --> Visit the official website of Oracle: https://www.java.com/en/](https://www.oracle.com/java/technologies/downloads/ <br><br>
 --> Download according to the platform that is going to be used.<br><br>
---> After downloading, load the executble file and follow along the process.
+--> After downloading, load the executable file and follow along the process.
 
 ---
 # Executing Java Code
