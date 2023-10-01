@@ -82,4 +82,4 @@ where java-codefile.java is the name of java code file. Also we do not need to m
   - Helps prevent memory leaks.<br><br>
   
 --> **Platform Independence**
-  - Compiled Java bytecode runs on any platform with a compatible JVM.
+  - Compiled Java bytecode runs on any platform with a compatible JVM(Java Virtual Machine).
