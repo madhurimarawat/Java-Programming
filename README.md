@@ -83,3 +83,4 @@ where java-codefile.java is the name of java code file. Also we do not need to m
   
 --> **Platform Independence**
   - Compiled Java bytecode runs on any platform with a compatible JVM(Java Virtual Machine).
+  - This makes java a platform independent programming language.
