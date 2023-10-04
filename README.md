@@ -79,7 +79,7 @@ where java-codefile.java is the name of java code file. Also we do not need to m
 
 --> **Garbage Collection**
   - Automatic memory management for freeing unused objects.
-  - Helps prevent memory leaks.<br><br>
+  - Helps prevent memory leaks leading to better memory management.<br><br>
   
 --> **Platform Independence**
   - Compiled Java bytecode runs on any platform with a compatible JVM(Java Virtual Machine).
