@@ -19,6 +19,6 @@ public class HelloWorld {
     }
 }
 /* The execution process of java code is as follows
- First we give the command javac sourcecode.java to make a byte class file which will be executed using java
- then this file is executed with the command java classname and finally we have output
+ First we give the command javac sourcecode.java to make a byte class file which will be executed using java.
+ then this file is executed with the command java classname and finally we have output in the command prompt.
  */
