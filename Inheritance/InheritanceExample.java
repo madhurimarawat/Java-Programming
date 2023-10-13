@@ -66,3 +66,6 @@ public class InheritanceExample {
         myDog.makeSound(); // Overridden method
     }
 }
+/*
+Class file is created for each class
+    */
