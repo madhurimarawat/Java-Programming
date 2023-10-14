@@ -67,5 +67,5 @@ public class InheritanceExample {
     }
 }
 /*
-Class file is created for each class
+Class file is created for each class after execution of program.
     */
